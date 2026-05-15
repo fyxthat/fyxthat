@@ -1,2 +1,2 @@
 ## Hi there 👋
-![Alt text](https://img.shields.io/badge/C++?logo=C++&logoColor=#00599C)
+![C++](https://img.shields.io/badge/C++?style=for-the-badge&logo=cplusplus&logoColor=#00599C)
