@@ -16,15 +16,15 @@
 ---
 
 ## ✉︎ Contact Info
-<p align="center"> <a href="https://www.linkedin.com/in/yago-costa-39a4203ab/"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:yagocostatrabalho@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p> <p align="center"> 
+<p align="center"> <a href="https://www.linkedin.com/in/yago-costa-39a4203ab/"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:yagocostatrabalho@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p> <p align="center"> 
 
 ---
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fyxthat/fyxthat/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fyxthat/fyxthat/output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fyxthat/fyxthat/output/breakout-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fyxthat/fyxthat/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fyxthat/fyxthat/output/minesweeper-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fyxthat/fyxthat/output/minesweeper-contribution-graph.svg">
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
