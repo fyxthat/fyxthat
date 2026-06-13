@@ -1,19 +1,24 @@
-## Hi there 👋
-My name is Yago (aka fyxthat), I like 
+<h1 align="center"> Yago Pereira Costa</h1>
+
+<p align="center">
+  <b>Computer Science Student</b> • <b>Cybersecurity</b>
+</p>
+
+<p align="center">
+  Learning everything I can...
+</p>
+
+---
 
 ## 🧠 Knowledge
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github,arch,arduino,ps,unreal,blender&perline=5" /> </p>
 
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus&logoColor=00599C)
+---
 
+## ✉︎ Contact Info
+<p align="center"> <a href="https://www.linkedin.com/in/yago-costa-39a4203ab/"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> &nbsp;&nbsp; <a href="mailto:yagocostatrabalho@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p> <p align="center"> 
 
-
-
-
-
-
-
-
+---
 
 
 <picture>
